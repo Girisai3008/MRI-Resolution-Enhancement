@@ -1,0 +1,4 @@
+PyQt5
+numpy
+opencv-python  # For image processing
+scipy  # For interpolation functions
